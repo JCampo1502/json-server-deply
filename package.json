@@ -1,8 +1,8 @@
 {
     "name": "render-deply",
-    "vesion": "1.0.0",
+    "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "/index.js",
     "scripts": {
         "start": "node index.js"
     },
@@ -12,6 +12,6 @@
     "dependencies": {
         "cors": "^2.8.5",
         "json-serve": "^0.1.0",
-        "json-server": "^1.0.0"
+        "json-server": "^1.0.0-beta.3"
     }
 }
